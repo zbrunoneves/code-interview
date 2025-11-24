@@ -12,3 +12,7 @@
 - Two Sum
     [code](./neetcode/two_sum.py)
     [link](https://neetcode.io/problems/two-integer-sum/)
+
+- Group Anagrams
+    [code](./neetcode/group_anagrams.py)
+    [link](https://neetcode.io/problems/anagram-groups/)
