@@ -8,3 +8,7 @@
 - Valid Anagram
     [code](./neetcode/is_anagram.py)
     [link](https://neetcode.io/problems/is-anagram/)
+
+- Two Sum
+    [code](./neetcode/two_sum.py)
+    [link](https://neetcode.io/problems/two-integer-sum/)
