@@ -24,3 +24,7 @@
 - Products of Array Except Self
     [code](./neetcode/product_except_self.py)
     [link](https://neetcode.io/problems/products-of-array-discluding-self/)
+
+- Encode and Decode Strings
+    [code](./neetcode/encode_decode_strings.py)
+    [link](https://neetcode.io/problems/string-encode-and-decode/)
