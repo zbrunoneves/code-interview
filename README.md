@@ -20,3 +20,7 @@
 - Top K Frequent Elements
     [code](./neetcode/top_k_elements.py)
     [link](https://neetcode.io/problems/top-k-elements-in-list/)
+
+- Products of Array Except Self
+    [code](./neetcode/product_except_self.py)
+    [link](https://neetcode.io/problems/products-of-array-discluding-self/)
