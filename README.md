@@ -1,5 +1,10 @@
 # Problems
 
+### LeetCode
+- 128 Longest Consecutive Sequence
+    [code](./leetcode/longest_consecutive.py)
+    [link](https://leetcode.com/problems/longest-consecutive-sequence)
+
 ### NeetCode
 - Contains Duplicate
     [code](./neetcode/duplicate_integer.py) 
